@@ -2,7 +2,7 @@
 
 Featured:
 - [Games Cheat Tables CE](https://github.com/themaoci/Game-Cheat-Tables-CE-)
-- [APB-Reloaded 3.0](https://github.com/themaoci/APB-Reloaded-3.0) _SOme of the options can be bannable_
+- [APB-Reloaded 3.0](https://github.com/themaoci/APB-Reloaded-3.0) _Some of the options can be bannable_
 - [Screeps MaoAI](https://github.com/themaoci/Screeps_MaoAI)
 - [hackmud guides](https://github.com/themaoci/hackmud-guides)
 - [FckYtAds](https://github.com/themaoci/FckYtAds)
