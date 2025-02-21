@@ -5,7 +5,6 @@ Featured:
 - [APB-Reloaded 3.0](https://github.com/themaoci/APB-Reloaded-3.0) _Some of the options can be bannable_
 - [Screeps MaoAI](https://github.com/themaoci/Screeps_MaoAI)
 - [hackmud guides](https://github.com/themaoci/hackmud-guides)
-- [FckYtAds](https://github.com/themaoci/FckYtAds)
 - [Unreal Engine Market Place Hide Owned Assets CSS](https://github.com/themaoci/UnrealEngineMarketPlaceHideOwnerAssetsCSS)
 - [vncpwd](https://github.com/themaoci/vncpwd)
 - [Tarkov Deobfuscator](https://github.com/themaoci/TarkovDeobfuscator)
