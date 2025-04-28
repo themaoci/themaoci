@@ -15,6 +15,6 @@ Featured:
 - [Spark in the Dark - Mono Cheat](https://github.com/themaoci/Spark-in-the-Dark---Mono-Cheat)
 - [Cyberpunk2077 Cheat Table](https://github.com/themaoci/Cyberpunk2077-Cheat-Table)
 - [Match Assemblies](https://github.com/themaoci/Match_Assemblies)
-- []()
+- [JustEmuTarkov](https://github.com/JustEmuTarkov) _offline tarkov emulator in nodejs + binaries in c#_
 
 ![ ](https://github-readme-stats.vercel.app/api?username=themaoci&show_icons=true&theme=dark&count_private=true)
