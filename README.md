@@ -24,3 +24,4 @@ Featured:
 
 MEME Library:
 [UC - Bans #1](https://raw.githubusercontent.com/themaoci/themaoci/refs/heads/master/do%20not%20use%20UC%20or%20share%20there%20thats%20what%20you%20will%20receive%20in%20return.bmp)
+[How you decrypt arc raiders addresses? its easy just do this...](https://raw.githubusercontent.com/themaoci/themaoci/refs/heads/master/arc_decrypt.png)
