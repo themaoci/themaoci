@@ -1,8 +1,8 @@
 ### He77o W0r7d
 
-Sites worth to visit:
-[Profit More From Games](https://profitmorefromgames.github.io/)
-
+Sites worth to visit:  
+[Profit More From Games](https://profitmorefromgames.github.io/)  
+  
 Featured:
 - [Games Cheat Tables CE](https://github.com/themaoci/Game-Cheat-Tables-CE-)
 - [APB-Reloaded 3.0](https://github.com/themaoci/APB-Reloaded-3.0) _Some of the options can be bannable_
@@ -19,9 +19,9 @@ Featured:
 - [Cyberpunk2077 Cheat Table](https://github.com/themaoci/Cyberpunk2077-Cheat-Table)
 - [Match Assemblies](https://github.com/themaoci/Match_Assemblies)
 - [JustEmuTarkov](https://github.com/JustEmuTarkov) _offline tarkov emulator in nodejs + binaries in c#_
-
+  
 ![ ](https://github-readme-stats.vercel.app/api?username=themaoci&show_icons=true&theme=dark&count_private=true)
-
-MEME Library:
-[UC - Bans #1](https://raw.githubusercontent.com/themaoci/themaoci/refs/heads/master/do%20not%20use%20UC%20or%20share%20there%20thats%20what%20you%20will%20receive%20in%20return.bmp)
-[How you decrypt arc raiders addresses? its easy just do this...](https://raw.githubusercontent.com/themaoci/themaoci/refs/heads/master/arc_decrypt.png)
+  
+MEME Library:  
+- [UC - Bans #1](https://raw.githubusercontent.com/themaoci/themaoci/refs/heads/master/do%20not%20use%20UC%20or%20share%20there%20thats%20what%20you%20will%20receive%20in%20return.bmp)  
+- [How you decrypt arc raiders addresses? its easy just do this...](https://raw.githubusercontent.com/themaoci/themaoci/refs/heads/master/arc_decrypt.png)  
